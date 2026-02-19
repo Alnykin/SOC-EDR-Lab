@@ -47,10 +47,9 @@ YARA
 ## 📊 Key Outcomes
 
 * Established and monitored an active C2 session to emulate attacker activity.
-* Developed detection rules to identify credential dumping attempts.
-* Created detection and response (D&R) rules to block malicious actions in real time.
+* Deployed detection rules to identify credential dumping attempts.
 * Implemented automated YARA scans to support proactive defense measures.
-
+* Created response rules to block malicious actions in real time.
 
 ## 📖 Lessons Learned
 
