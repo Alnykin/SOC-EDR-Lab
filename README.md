@@ -61,7 +61,7 @@ YARA
 * How observed adversary techniques can be translated into actionable SOC detection logic.
 
 
-## Walthrough
+## Walkthrough
 [![PDF](https://img.shields.io/badge/view%20soc%20edr%20lab%20writeup-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FAlnykin%2FSOC-EDR-Lab%2Fblob%2F0282e99ca2e399ccee24663f3636e0ce48c2a8b9%2FSOC%2520Endpoint%2520Detection%2520and%2520Response%2520Lab%2520Write-up.pdf)](https://github.com/user-attachments/files/25403782/SOC.Endpoint.Detection.and.Response.Lab.Write-up.pdf)
 
 
