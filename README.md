@@ -9,9 +9,7 @@ The SOC EDR lab project aimed to simulate a real-world Security Operations Cente
 
 * Integrated Sigma detection rules to improve sensor visibility into threat activity.
 
-* Generated and deployed a Sliver C2 payload from a Linux machine to a Windows host.
-
-* Launched SC2 sessions to simulate real-world credential theft techniques such as LSASS memory dumping and post-exploitation activity.
+* Launched C2 sessions to simulate real-world credential theft techniques such as LSASS memory dumping and post-exploitation activity.
   
 * Conducted privilege escalation within an active C2 session to analyze attacker techniques.
 
