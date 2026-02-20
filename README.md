@@ -1,6 +1,6 @@
 # SOC Endpoint Detection and Response Lab 
 
-The SOC EDR lab project aimed to simulate a real-world Security Operations Center workflow within an attack-and-defend lab environment. The objective was to emulate adversary behavior and develop detection and response logic using LimaCharlie EDR.
+The SOC EDR lab project aimed to simulate a real-world Security Operations Center workflow within an attack-and-defend lab environment. The objective was to emulate adversary behavior and develop detection and response logic using LimaCharlie EDR, Sigma, and YARA.
 
 
 ### Skills Developed
@@ -27,7 +27,7 @@ The SOC EDR lab project aimed to simulate a real-world Security Operations Cente
 
 ### Tools 
 
-LimaCharlie EDR 
+LimaCharlie 
 
 Powershell
 
