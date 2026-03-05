@@ -2,7 +2,7 @@
 The SOC EDR lab project aimed to simulate a real-world Security Operations Center workflow within an attack-and-defend lab environment. The objective was to emulate adversary behavior through a C2 session and develop detection and response logic using LimaCharlie EDR, Sigma, and YARA.
 
 
-### Skills Developed
+### Project Workflow
 
 * Setup and configured LimaCharlie EDR to collect telemetry across Windows and Linux systems.
 
@@ -58,7 +58,7 @@ YARA
 
 
 # Walkthrough
-Download the PDF below, or view directly within GitHub from the file viewer at the top of this page.
+Download the full PDF write-up below, or view directly within GitHub from the file viewer at the top of this page.
 
 [![PDF](https://img.shields.io/badge/view%20soc%20edr%20lab%20writeup-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FAlnykin%2FSOC-EDR-Lab%2Fblob%2F0282e99ca2e399ccee24663f3636e0ce48c2a8b9%2FSOC%2520Endpoint%2520Detection%2520and%2520Response%2520Lab%2520Write-up.pdf)](https://github.com/user-attachments/files/25524472/SOC.Endpoint.Detection.and.Response.Lab.Write-up.pdf)
 
