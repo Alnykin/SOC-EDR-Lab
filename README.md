@@ -1,4 +1,4 @@
-# C2 Adversary Emulation and YARA Detection Development Lab
+# C2 Adversary Emulation and YARA Detection Lab
 The SOC EDR lab project aimed to simulate a real-world Security Operations Center workflow within an attack-and-defend lab environment. The objective was to emulate adversary behavior through a C2 session and develop detection and response logic using LimaCharlie EDR, Sigma, and YARA.
 
 
