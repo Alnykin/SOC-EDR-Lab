@@ -41,14 +41,14 @@ ProcDump
 YARA
 
 
-## 📊 Key Outcomes
+## Key Outcomes
 
 * Established and monitored an active C2 session to emulate attacker activity.
 * Deployed detection rules to identify credential dumping attempts.
 * Implemented automated YARA scans to support proactive defense measures.
 * Created response rules to block malicious actions in real time.
 
-## 📖 Lessons Learned
+## Lessons Learned
 
 * How attackers establish persistence, perform privilege escalation, and credential dumping.
 * Leveraging EDR telemetry to design and implement custom detection rules.
