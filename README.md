@@ -24,21 +24,21 @@ The SOC EDR lab project aimed to simulate a real-world Security Operations Cente
 
 ### Tools 
 
-LimaCharlie 
+LimaCharlie - EDR platform for telemetry, detection, and response.
 
-Powershell
+Windows Sysmon - Detailed endpoint logging for visibility and detection.
 
-Windows Sysmon 
+Windows Defender - Endpoint security alerts.
 
-Sigma Ruleset 
+Sigma Ruleset - Detection logic for suspicious behavior.
 
-Sliver C2 Framework
+Sliver C2 Framework - Command-and-control and post-compromise simulation.
 
-VirusTotal 
+VirusTotal - File, hash, and indicator investigation.
 
-ProcDump 
+ProcDump - LSASS memory dumping for credential access simulation.
 
-YARA
+YARA - Custom rules for automated scanning, detection, and containment.
 
 
 ## Key Outcomes
